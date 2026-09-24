@@ -56111,4 +56111,11 @@
     "description": "Look up words and translate selected text from notes and PDFs, backed by an in-app dictionary, semantic word nebula, spaced repetition review, and AI explanations. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "losecloud/Obsidian-Word-Memo"
   }
+  {
+    "id": "gtd-board",
+    "name": "GTD Board",
+    "author": "Johannes",
+    "description": "A customizable GTD Kanban board: scans a folder for task files and inline checkboxes, displays them as color-coded swimlanes, and manages due dates with desktop reminders.",
+    "repo": "johannesscherbaum/gtd-board"
+}
 ]
